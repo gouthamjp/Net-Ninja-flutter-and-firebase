@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776774809104",
+    "firebase_url": "https://learn-fire-c65a7.firebaseio.com",
+    "project_id": "learn-fire-c65a7",
+    "storage_bucket": "learn-fire-c65a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776774809104:android:eea5f92a1bc3c1b857bc95",
+        "android_client_info": {
+          "package_name": "com.goutham.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776774809104-89li0tvv8q1rpeb3qhljk96rul0eusdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DtEgEYwUds3P9MnqXwjyHlx0BPBra4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776774809104-89li0tvv8q1rpeb3qhljk96rul0eusdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
